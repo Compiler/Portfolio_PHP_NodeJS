@@ -9,23 +9,24 @@
 
 
 .items {
+	margin:auto;
+	padding:auto;
 	display: none;	
 }
 
 .slider-block {
 	position:relative;
 	overflow:hidden;
-	height: 625px;
-	margin: 0 auto;
-	
+	height: 820px;
+	margin: auto;
 }
 .slider {
 	z-index:2;
-	height: 625px;
-	position: absolute;
+	height: 800px;
+	position: relative;
 	left: 50%;
-	margin-left: -800px;
-	width: 1600px;
+	margin-left: -540px;
+	width: 1080px;
 }
 
 
@@ -61,7 +62,7 @@
 
 
 .pagination {
-bottom: 0px;
+bottom: 10px;
 position: absolute;
 left: 50%;
 margin-left: -51px;
