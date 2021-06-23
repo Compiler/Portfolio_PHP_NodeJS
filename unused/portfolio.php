@@ -3,8 +3,8 @@
 <head>
 <title>Gourmet Traditional Restaurant | Portfolio</title>
 <meta charset="utf-8">
-<link rel="icon" href="images/favicon.ico">
-<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="icon" href="images/.ico">
+<link rel="shortcut icon" href="images/.ico">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/prettyPhoto.css">
 <script src="js/jquery.js"></script>

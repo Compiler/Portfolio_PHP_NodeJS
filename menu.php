@@ -3,18 +3,15 @@
 <head>
 <title>Gourmet Traditional Restaurant | Menu</title>
 <meta charset="utf-8">
-<link rel="icon" href="images/favicon.ico">
-<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="icon" href="images/icon.ico">
+<link rel="shortcut icon" href="images/icon.ico">
 <link rel="stylesheet" href="css/style.css">
 <script src="js/jquery.js"></script>
 <script src="js/jquery-migrate-1.1.1.js"></script>
 <script src="js/superfish.js"></script>
 <script src="js/jquery.easing.1.3.js"></script>
 <script src="js/sForm.js"></script>
-<!--[if lt IE 9]>
-<script src="js/php5shiv.js"></script>
-<link rel="stylesheet" media="screen" href="css/ie.css">
-<![endif]-->
+
 </head>
 <body>
 <div class="main">
@@ -96,15 +93,9 @@
           </nav>
         </div>
         <div class="grid_6">
-          <h3>Email Updates</h3>
-          <p class="col1">Join our digital mailing list and get news<br>
-            deals and be first to know about events</p>
-          <form id="newsletter" action="#">
-            <div class="success">Your subscribe request has been sent!</div>
-            <label class="email">
-              <input type="email" value="Enter e-mail address" >
-              <a href="#" class="btn" data-type="submit">subscribe</a> <span class="error">*This is not a valid email address.</span> </label>
-          </form>
+          <?php
+            include("email_update.php");
+          ?>
         </div>
       </div>
       <div class="clear"></div>
