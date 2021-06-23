@@ -77,7 +77,9 @@
       <div class="bottom_block">
         <div class="grid_6">
           <h3>Follow Us</h3>
-          <div class="socials"> <a href="#"></a> <a href="#"></a> <a href="#"></a> </div>
+          <?php
+            require("socials.php");
+          ?>
           <nav>
             <ul>
               <?php

@@ -405,7 +405,7 @@ header h1 a img {
 
 
 .socials a {
-	background: url(../images/socials.png) 0 0 no-repeat;
+	background: url(../images/tiny_instagram.png) 0 0 no-repeat;
 	width: 26px;
 	float: left;
 	display: block;
@@ -421,6 +421,7 @@ header h1 a img {
 	margin-left: 0;
 }
 
+/*
 .socials a:first-child+a {
 	background: url(../images/socials.png) -38px 0 no-repeat;
 }
@@ -428,7 +429,7 @@ header h1 a img {
 .socials a:first-child+a+a {
 	background: url(../images/socials.png) right 0 no-repeat;
 }
-
+*/
 
 .carousel2 li img {
 	float: left;
