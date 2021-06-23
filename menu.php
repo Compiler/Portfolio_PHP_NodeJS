@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Gourmet Traditional Restaurant | Menu</title>
+<title>The Restaurant | Menu</title>
 <meta charset="utf-8">
 <link rel="icon" href="images/icon.ico">
 <link rel="shortcut icon" href="images/icon.ico">

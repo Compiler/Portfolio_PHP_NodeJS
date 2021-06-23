@@ -174,9 +174,11 @@ a.btn.m1 {
 	float: right !important;	
 }
 
+/*
 .upp {
 	text-transform: uppercase;
 }
+*/
 
 .alright {
 	text-align: right;
@@ -198,6 +200,11 @@ a.btn.m1 {
 
 .col2 {
 	color: #e1837f;
+}
+
+.col3 {
+	color: #464646;
+	font-size: 18px;
 }
 
 .hor_separator {
