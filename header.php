@@ -4,15 +4,15 @@
     <div class="menu_block">
       <nav>
         <ul class="sf-menu">
+        <!-- class = "current" keeps "Home" Highlighted, fix it -->
           <li><a href="index.php">Home</a></li>
-          <li class="current"><a href="about-us.php">About Us</a>
+          <li><a href="menu.php">Menu</a>
             <ul>
-              <li><a href="#"> cuisine</a></li>
-              <li><a href="#">Good rest</a></li>
-              <li><a href="#">Services</a></li>
+              <li><a href="#">Lunch</a></li>
+              <li><a href="#">Dinner</a></li>
             </ul>
           </li>
-          <li><a href="menu.php">Menu</a></li>
+          <li><a href="photos.php">Photos</a></li>
           <li><a href="contacts.php">Contact Us</a></li>
         </ul>
       </nav>

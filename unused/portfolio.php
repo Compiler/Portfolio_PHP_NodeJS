@@ -63,7 +63,7 @@ $(document).ready(function () {
           <nav>
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="about-us.php">About Us</a></li>
+              <li><a href="photos.php">About Us</a></li>
               <li><a href="menu.php">Menu</a></li>
               <li class="current"><a href="portfolio.php">Portfolio</a></li>
               <li><a href="news.php">News</a></li>

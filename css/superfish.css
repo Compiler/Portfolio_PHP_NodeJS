@@ -46,8 +46,13 @@ nav{ position:relative;padding: 0px 0 0 0;}
 	background: #e2827e;
 	padding: 6px 14px 7px;
 }
-
-
+/*
+.currentpage {
+	color: #fff;
+	background: #e2827e;
+	padding: 6px 14px 7px;
+}
+*/
 
 /*================================>> 2 Level <<========================================*/
 .sf-menu li ul,.sf-menu li.sfHover>ul{

@@ -23,7 +23,7 @@
           <nav>
             <ul class="sf-menu">
               <li><a href="index.php">Home</a></li>
-              <li><a href="about-us.php">About Us</a>
+              <li><a href="photos.php">About Us</a>
                 <ul>
                   <li><a href="#"> cuisine</a></li>
                   <li><a href="#">Good rest</a></li>

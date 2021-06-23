@@ -3,7 +3,7 @@
 
 <ul class="sf-menu">
     <li class="current"><a href="index.php">Home</a></li>
-    <li class="with_ul"><a href="about-us.php">About Us</a>
+    <li class="with_ul"><a href="menu.php">About Us</a>
         <ul>
             <li><a href="#"> cuisine</a></li>
             <li><a href="#">Good rest</a></li>

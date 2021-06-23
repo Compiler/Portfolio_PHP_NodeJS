@@ -113,12 +113,9 @@ $(window).load(function () {
           <h3>Follow Us</h3>
           <div class="socials"> <a href="#"></a> <a href="#"></a> <a href="#"></a> </div>
           <nav>
-            <ul>
-              <li><a href="index.php">Home</a></li>
-              <li class="current"><a href="about-us.php">About Us</a></li>
-              <li><a href="menu.php">Menu</a></li>
-              <li><a href="contacts.php">Contact Us</a></li>
-            </ul>
+            <?php
+              include("bottom_nav.php");
+            ?>
           </nav>
         </div>
         <div class="grid_6">

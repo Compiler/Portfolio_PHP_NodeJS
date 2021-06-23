@@ -87,10 +87,9 @@
           <div class="socials"> <a href="#"></a> <a href="#"></a> <a href="#"></a> </div>
           <nav>
             <ul>
-              <li><a href="index.php">Home</a></li>
-              <li><a href="about-us.php">About Us</a></li>
-              <li class="current"><a href="menu.php">Menu</a></li>
-              <li><a href="contacts.php">Contact Us</a></li>
+              <?php
+                include("bottom_nav.php");
+              ?>
             </ul>
           </nav>
         </div>
