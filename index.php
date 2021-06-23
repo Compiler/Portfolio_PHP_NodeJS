@@ -106,7 +106,7 @@ $(window).load(function () {
       </div>
       <div class="grid_12">
         <div class="car_wrap">
-          <h2>Best Choice</h2>
+          <h2>Best Selling</h2>
           <a href="#" class="prev"></a><a href="#" class="next"></a>
           <ul class="carousel1">
             <li>
@@ -155,12 +155,9 @@ $(window).load(function () {
             require("socials.php");
           ?>
           <nav>
-            <ul>
-              <li class="current"><a href="index.php">Home</a></li>
-              <li><a href="menu.php">Menu</a></li>
-              <li><a href="photos.php">Photos</a></li>
-              <li><a href="contacts.php">Contact Us</a></li>
-            </ul>
+            <?php
+              require("bottom_nav.php");
+            ?>
           </nav>
         </div>
         <div class="grid_6">

@@ -33,11 +33,12 @@
           <address>
           <dl>
             <dt>
-              <p>The Company Name Inc.<br>
-                8901 Marmora Road,<br>
-                Glasgow, D04 89GR.</p>
+              <p>The Restaurant<br>
+                3215 S Rancho Dr #100,<br>
+                Las Vegas, NV 89102
+              </p>
             </dt>
-            <dd><span>Telephone:</span>+1 800 603 6035</dd>
+            <dd><span>Telephone:</span>+1-800-808-4194</dd>
           </dl>
           </address>
         </div>
