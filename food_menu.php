@@ -13,7 +13,7 @@
 
           <div class="grid_3 omega"> <img src="food pics/sausage_gravy_biscuits_egg_5.jpg" alt="" class="img_inner">
             <h3 class="mb0"><a href="#">Sausage Gravy Biscuits</a></h3>
-            <p> $7 </p>
+            <p> $8 </p>
           </div>
 
           <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -26,7 +26,7 @@
 
           <div class="grid_3 omega"> <img src="food pics/beef_birra_taco_3.jpg" alt="" class="img_inner">
             <h3 class="mb0"><a href="#">Beef Birra Tacos</a></h3>
-            <p> $9 </p>
+            <p> $10 </p>
           </div>
 
           <div class="grid_3 omega"> <img src="food pics/meatball_sub_2.jpg" alt="" class="img_inner">
@@ -48,7 +48,7 @@
           </div>
 
           <div class="grid_3 omega"> <img src="food pics/general_tsos_2.jpg" alt="" class="img_inner">
-            <h3 class="mb0"><a href="#">General Tsos Chicken with Rice</a></h3>
+            <h3 class="mb0"><a href="#">General Tsos Chicken</a></h3>
             <p> $5 </p>
           </div>
 

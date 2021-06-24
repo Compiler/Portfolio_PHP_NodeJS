@@ -27,7 +27,7 @@
     </li>
     <li>
       <div><img src="food pics/general_tsos_2.jpg" alt="">
-        <div class="col3"> <a href="#">General tsos Chicken</a></div>
+        <div class="col3"> <a href="#">General Tsos Chicken</a></div>
         <div class="price">$5</div>
       </div>
     </li>
