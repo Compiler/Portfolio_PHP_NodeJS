@@ -26,7 +26,7 @@
     <div class="container_12">
       <div class="grid_6">
         <h2>Find Us</h2>
-        <div class="map">
+        <div class="info">
           <address>
           <dl>
             <dt>
@@ -35,7 +35,17 @@
                 Las Vegas, NV 89102
               </p>
             </dt>
-            <dd><span>Telephone:</span>+1-800-808-4194</dd>
+            <dd><span>Telephone:</span>+1-800-808-4194</dd><br><br><br><br><br><br>
+            <p>
+              Hours: <br>
+              Mon: 8AM to 11PM <br>
+              Tues: 8AM to 11PM <br>
+              Wed: 8AM to 11PM <br>
+              Thurs: 8AM to 11PM <br>
+              Fri: 8AM to 12AM <br>
+              Sat: 8AM to 12AM<br>
+              Sun: 10AM to 9PM<br>
+            </p>
           </dl>
           </address>
         </div>

@@ -198,6 +198,10 @@ a.btn.m1 {
 	color: #464646;
 }
 
+.col2 .inc_font{
+	font-size: 18px;
+}
+
 .col2 {
 	color: #e1837f;
 }
@@ -681,7 +685,11 @@ address dd span {
 	text-align: left;
 }
 
-
+.info {
+	padding-top: 6px;
+	color: #848383;
+	font-size: 18px;
+}
 
 
 /************Footer***********/

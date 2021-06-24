@@ -75,26 +75,19 @@ $(window).load(function () {
   </div>
   <div class="content page1">
     <div class="container_12">
-      <div class="grid_7">
-        <h2>Welcome</h2>
+      <div class="grid_welcome">
+        <h2>Welcome to The Restaurant</h2>
         <div class="page1_block col1"> <img src="images/welcome_img.png" alt="">
           <div class="extra_wrapper">
-            <p><span class="col2"><a href="#">Click here</a></span> for more info about this free website template created by TemplateMonster.com </p>
-            Aenean nonummy hendrerit mau rellus porta. Fusce suscipit varius m sociis natoque penaibet magni parturient montes nasetur ridiculumula dui. <br>
-            <a href="#" class="btn">more</a> </div>
+            <p class="col2"><span class="inc_font">The Restaurant is committed to ensuring a delightful meal no matter the time. Serving breakfast all day. <br><br>
+            Serving a wide variety of foods from all across the world.</p></div>
+            
           <div class="clear"></div>
         </div>
       </div>
       <div class="grid_5">
-        <h2>Features</h2>
-        <ul class="list">
-          <li><a href="#">Unlimited consultations and/or planning</a></li>
-          <li><a href="#">Expert advice on traditions, customs, aetiquette</a></li>
-          <li><a href="#">Determine and stay within budget</a></li>
-          <li><a href="#">Choosing the right Wedding Venue</a></li>
-          <li><a href="#">Provide preferred vendor's list</a></li>
-          <li><a href="#">Assist with wedding scheme and design</a></li>
-        </ul>
+        <!--if features are kept put here -->
+
       </div>
       <div class="clear"></div>
       <div class="grid_12">

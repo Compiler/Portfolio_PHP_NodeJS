@@ -47,6 +47,12 @@ body {
   margin-right: 10px;
 }
 
+.grid_welcome {
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .push_1, .pull_1,
 .push_2, .pull_2,
 .push_3, .pull_3,
