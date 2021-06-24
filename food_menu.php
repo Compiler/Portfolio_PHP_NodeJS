@@ -34,8 +34,8 @@
             <p>FOOD</p>
           </div>
 
-          <div class="grid_3 omega"> <img src="food pics/general_tsaos_2.jpg" alt="" class="img_inner">
-            <h3 class="mb0"><a href="#">Liotymer</a></h3>
+          <div class="grid_3 omega"> <img src="food pics/general_tsos_2.jpg" alt="" class="img_inner">
+            <h3 class="mb0"><a href="#">General Tsos Chicken with Rice</a></h3>
           </div>
 
           <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

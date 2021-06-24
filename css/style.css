@@ -706,3 +706,9 @@ footer a:hover {
 	color: #fff;
 	text-decoration: underline;
 }
+
+/********Front Page*********/
+.happy_customer {
+	font-family: 'Great Vibes';
+	font-size: 48px;
+}

@@ -14,6 +14,11 @@
 <script src="js/sForm.js"></script>
 <script src="js/jquery.carouFredSel-6.1.0-packed.js"></script>
 <script src="js/tms-0.4.1.js"></script>
+<!-- IMPORTED FONT -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+
 <script>
 $(window).load(function () {
     $('.slider')._TMS({
@@ -81,6 +86,9 @@ $(window).load(function () {
           <div class="extra_wrapper">
             <p class="col2"><span class="inc_font">The Restaurant is committed to ensuring a delightful meal no matter the time. Serving breakfast all day. <br><br>
             Serving a wide variety of foods from all across the world.</p></div>
+            <br><br><br>
+
+            <p class="happy_customer"> "It do be lookin tasty doe" - Ethan H.</p>
             
           <div class="clear"></div>
         </div>
