@@ -1,29 +1,39 @@
 <h2>Contact Us</h2>
-        <form id="form" action="#">
-          <div class="success_wrapper">
-            <div class="success">Contact form submitted!<br>
-              <strong>We will be in touch soon.</strong> </div>
-          </div>
-          <fieldset>
-            <label class="name">
-              <input type="text" value="Name:">
-              <br class="clear">
-              <span class="error error-empty">*This is not a valid name.</span><span class="empty error-empty">*This field is required.</span> </label>
-            <label class="email">
-              <input type="text" value="E-mail:">
-              <br class="clear">
-              <span class="error error-empty">*This is not a valid email address.</span><span class="empty error-empty">*This field is required.</span> </label>
-            <label class="phone">
-              <input type="tel" value="Phone:">
-              <br class="clear">
-              <span class="error error-empty">*This is not a valid phone number.</span><span class="empty error-empty">*This field is required.</span> </label>
-            <label class="message">
-              <textarea>Message:</textarea>
-              <br class="clear">
-              <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span> </label>
-            <div class="clear"></div>
-            <div class="btns"><a data-type="reset" class="btn">clear</a><a data-type="submit" class="btn">send</a>
-              <div class="clear"></div>
-            </div>
-          </fieldset>
-        </form>
+  <form
+    action="https://formspree.io/f/mwkaqedk"
+    method="POST"
+  >
+
+    <label>
+        Your name: <br>
+        <input type="text" name="Name">
+    </label>
+
+    <br><br>
+
+    <label>
+      Your email: <br>
+      <input type="email" name="Sender's Email Address">
+    </label>
+
+    <br><br>
+
+    <label>
+      Your phone number: <br>
+      <input type="tel" name="Phone Number">
+    </label>
+
+    <br><br>
+
+    <label>
+      Your message: <br>
+      <textarea name="Message" rows= "15" cols = "40"></textarea>
+    </label>
+
+    <br><br>
+
+    <!-- your other form fields go here -->
+    <button type="submit">Send</button> &nbsp;&nbsp;
+    <button type="reset">Clear</button>
+    
+  </form>
